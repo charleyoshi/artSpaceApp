@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="image_one_title">Green Finger</string>
+    <string name="image_one_author">Oscar Bobb</string>
+    <string name="image_one_year">2001</string>
+    <string name="image_two_title">Red Fingers</string>
+    <string name="image_two_author">Arman Yolker</string>
+    <string name="image_two_year">2002</string>
+    <string name="image_three_title">Chicken Feet</string>
+    <string name="image_three_author">Duke Silver</string>
+    <string name="image_three_year">2003</string>
+</resources>
